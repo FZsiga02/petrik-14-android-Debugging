@@ -21,20 +21,18 @@
         android:gravity="center">
 
         <Button
+            android:id="@+id/buttonNext"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/buttonNext"
             android:text="Következő Activity"
-            android:textSize="30dp"
-            />
+            android:textSize="30dp" />
 
         <Button
+            android:id="@+id/buttonNameChange"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/buttonNameChange"
             android:text="Név változtatás"
-            android:textSize="30dp"
-            />
+            android:textSize="30dp" />
 
         <Button
             android:layout_width="match_parent"
